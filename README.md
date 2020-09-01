@@ -1,5 +1,5 @@
 
-# JSDP : 
+# JSDP : Simple library implementation of Session Description Protocol (SDP)
 
 Simple library implementation of Session Description Protocol [RFC 4566 # SDP: Session Description Protocol.]([https://tools.ietf.org/html/rfc8259](https://tools.ietf.org/html/rfc4566)) This library provides parsing and generating of SDP that can be used with other session protocols such as SIP. 
 
